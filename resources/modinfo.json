@@ -1,0 +1,9 @@
+{
+    "type": "code",
+    "side": "server",
+    "modid": "healingwhilesleepingfix",
+    "name": "Healing While Sleeping Fix",
+    "description": "Fixes health regeneration while sleeping",
+    "authors": ["Craluminum2413"],
+    "version": "1.0.0"
+}
