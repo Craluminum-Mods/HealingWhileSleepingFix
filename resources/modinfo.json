@@ -1,9 +1,8 @@
 {
     "type": "code",
-    "side": "server",
     "modid": "healingwhilesleepingfix",
     "name": "Healing While Sleeping Fix",
-    "description": "Fixes health regeneration while sleeping",
+    "description": "Fixes health regeneration not properly being boosted while sleeping",
     "authors": ["Craluminum2413"],
-    "version": "1.0.0"
+    "version": "1.0.1"
 }
